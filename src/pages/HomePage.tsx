@@ -101,7 +101,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-slate-100">
                 <ImageWithFallback
-                  src="/src/assets/images/hero_cleaning_1793208461954.jpg"
+                  src="/images/hero_cleaning_1793208461954.jpg"
                   alt="Professional PureSpace cleaner sanitizing a contemporary bright living room"
                   className="w-full h-[380px] sm:h-[460px] object-cover"
                 />
@@ -274,7 +274,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             </div>
             <div className="lg:col-span-5">
               <ImageWithFallback
-                src="/src/assets/images/service_office_commercial_1793208465058.jpg"
+                src="/images/service_office_commercial_1793208465058.jpg"
                 alt="Spotless corporate office cleaned by PureSpace"
                 className="w-full h-56 sm:h-64 rounded-xl object-cover"
               />

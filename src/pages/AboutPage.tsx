@@ -45,7 +45,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
           <div className="lg:col-span-6 relative">
             <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg">
               <ImageWithFallback
-                src="/src/assets/images/about_team_1793208465258.jpg"
+                src="/images/about_team_1793208465258.jpg"
                 alt="The PureSpace professional cleaning team"
                 className="w-full h-[380px] sm:h-[460px] object-cover"
               />
